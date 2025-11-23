@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i+68j6*608t!&4@o^w3c*5=v#@+*pim(^$_x*vzb9wju@a(%0h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-one-twib.onrender.com']
 
 
 # Application definition
